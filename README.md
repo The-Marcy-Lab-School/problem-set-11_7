@@ -11,13 +11,13 @@ Respond to short response questions in clear, concise sentences directly within 
     * The space and time complexity in Big O notation
     * Some cases when you might prefer or not prefer this algorithm over others (i.e. "This algorithm performs well if the list is already nearly sorted")
 
-**Insertion Sort**
+**Insertion Sort:**
 
-**Bubble Sort**
+**Bubble Sort:**
 
-**Merge Sort**
+**Merge Sort:**
 
-**Quick Sort**
+**Quick Sort:**
 
 
-2. In the `exercises.js` file, implement each of the sorting algorithms above. Run `jest` to execute the test suite. Each of the functions has been stubbed out for you, but you are welcome to create helper functions if needed. 
+2. In the `exercises.js` file, implement each of the sorting algorithms above **without using JavaScript's built-in** `.sort()` method. Run `jest` to execute the test suite. Each of the functions has been stubbed out for you, but you are welcome to create your own helper functions if needed. 
