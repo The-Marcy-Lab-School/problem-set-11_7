@@ -20,4 +20,4 @@ Respond to short response questions in clear, concise sentences directly within 
 **Quick Sort:**
 
 
-2. In the `exercises.js` file, implement each of the sorting algorithms above **without using JavaScript's built-in** `.sort()` method. Run `jest` to execute the test suite. Each of the functions has been stubbed out for you, but you are welcome to create your own helper functions if needed. 
+2. In the `exercises.js` file, implement each of the sorting algorithms above **without using JavaScript's built-in** `.sort()` method. Run `npm test` to execute the test suite. Each of the functions has been stubbed out for you, but you are welcome to create your own helper functions if needed. 
