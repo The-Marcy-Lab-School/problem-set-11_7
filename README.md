@@ -1,9 +1,13 @@
-# Problem Set 11.7 - Sorting Algorithms
+# Problem Set: Sorting Algorithms
 
 ## Directions
 Respond to short response questions in clear, concise sentences directly within this file. Use markdown to ensure that your answers are formatted correctly.
 
-### Questions
+Complete code challenges in `exercises.js`. 
+
+Use Test Driven Development to guide you. Run `npm install` to download dependencies. Run `npm test` to run tests locally. Ensure all tests are passing before submitting this problem set.
+
+### Short Response Questions
 
 1. There are four sorting algorithms listed below. For each one, please provide:
 
@@ -19,5 +23,6 @@ Respond to short response questions in clear, concise sentences directly within 
 
 **Quick Sort:**
 
+### Coding Exercises
 
-2. In the `exercises.js` file, implement each of the sorting algorithms above **without using JavaScript's built-in** `Array.prototype.sort()` method. Run `npm test` to execute the test suite. Each of the functions has been stubbed out for you, but you are welcome to create your own helper functions if needed. 
+1. In the `exercises.js` file, implement each of the sorting algorithms above **without using JavaScript's built-in** `Array.prototype.sort()` method. Each of the functions has been stubbed out for you, but you are welcome to create your own helper functions if needed. 
